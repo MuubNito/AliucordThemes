@@ -4,7 +4,7 @@ Unsaturated Blue is an Aliucord theme, focusing on using colors that arent neith
 ## Demonstration
 (Using Chat and Settings transparency, discord font.)
 
-![Preview](https://gitlab.com/aliucordthemes/discordish-blue/-/raw/main/Demonstration/Sans_titre_63_20230802162739.png?ref_type=heads)
+![Preview](https://github.com/MuubNito/AliucordThemes/blob/main/Sans%20titre%2064_20230802175733.png)
 
 ## Installation
 
