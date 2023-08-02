@@ -16,4 +16,8 @@ Unsaturated Blue is an Aliucord theme, focusing on using colors that arent neith
 - A file manager
 
 ### Guide
-Download the .json file here and move it to Aliucord/themes folder. You can use any transparency (except Full) but I recommend using chat and settings. You can also turn on the font if you want the Ubuntu font.
+Download the .json file here and move it to Aliucord/themes folder.
+
+Alternatively, you can also join the Aliucord server, hold the Unsaturated Blue message in #themes, and choose install unsaturatedblue.
+
+You can use any transparency (except Full) but I recommend using chat and settings. You can also turn on the font if you want the Ubuntu font.
