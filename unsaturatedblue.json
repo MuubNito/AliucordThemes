@@ -3,7 +3,7 @@
         "author": "br.mapper",
         "name": "Unsaturated Blue",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/unsaturatedblue.json?token=GHSAT0AAAAAACDP2LQ6YHO3SS675KWZCYBYZGKUTCA"
+        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/unsaturatedblue.json"
     },
     "background": {
         "blur_radius": 2.3,
