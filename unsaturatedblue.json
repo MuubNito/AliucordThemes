@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "br.mapper",
+        "name": "Unsaturated Blue",
+        "version": "1.0.0",
+        "updater": "https:\/\/gitlab.com\/aliucordthemes\/discordish-blue\/-\/raw\/main\/unsaturatedblue.json"
+    },
+    "background": {
+        "blur_radius": 2.3,
+        "overlay_alpha": 10,
+        "url": "https:\/\/media.discordapp.net\/attachments\/997808731645562891\/1136074468121391134\/1690931634233.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/997808731645562891\/1136060419887345764\/Ubuntu-Medium.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 407606229,
+        "background": -15394771,
+        "background_secondary": -15520956,
+        "input_background": 203914957,
+        "statusbar": 0
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
