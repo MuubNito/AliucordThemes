@@ -1,23 +1,38 @@
-# Unsaturated Blue
+# Aliucord Themes
+Some of the Aliucord themes that I made. **All of them require a plugin called *Themer*.**
+
+## Requirements
+- Aliucord
+- Themer Plugin
+- Dark Mode
+
+## Guide
+To install all themes, join the Aliucord server, hold the theme message in #themes, and choose install unsaturatedblue.
+
+
+
+
+## Rouged
+Rouged is an Aliucord theme that is nice on the eye. It has a red-ish unsaturated pallete.
+
+### Demonstration
+![Preview]
+() 
+
+
+
+
+## Unsaturated Blue
 Unsaturated Blue is an Aliucord theme, focusing on using colors that arent neither vibrant neither Grey.
 
-## Demonstration
+You can use any transparency (except Full) for this theme but I recommend using chat and settings. You can also turn on the font if you want the Ubuntu font.
+
+### Demonstration
 (Using Chat and Settings transparency, discord font.)
 
 ![Preview](https://github.com/MuubNito/AliucordThemes/blob/main/Sans%20titre%2064_20230802175733.png)
 
-## Installation
 
 
 
-### Requirements
-- Aliucord
-- Themer Plugin
-- A file manager
 
-### Guide
-Download the .json file here and move it to Aliucord/themes folder.
-
-Alternatively, you can also join the Aliucord server, hold the Unsaturated Blue message in #themes, and choose install unsaturatedblue.
-
-You can use any transparency (except Full) but I recommend using chat and settings. You can also turn on the font if you want the Ubuntu font.
