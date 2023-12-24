@@ -1,12 +1,12 @@
 # Aliucord Themes
 Some of the Aliucord themes that I made. **All of them require a plugin called *Themer*.**
 
-## Requirements
+### Requirements
 - Aliucord
 - Themer Plugin
 - Dark Mode
 
-## Guide
+### Guide
 To install all themes, join the Aliucord server, hold the theme message in #themes, and choose install unsaturatedblue.
 
 
