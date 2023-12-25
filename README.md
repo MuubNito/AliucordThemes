@@ -32,6 +32,8 @@ You can use any transparency (except Full) for this theme but I recommend using 
 ![Preview](https://github.com/MuubNito/AliucordThemes/blob/main/Sans%20titre%2064_20230802175733.png)
 
 
+# LICENSING
 
+All of the Aliucord themes in this repo are licensed under the Unlincense.
 
 
