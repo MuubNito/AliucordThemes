@@ -12,8 +12,8 @@ To install all themes, join the Aliucord server, hold the theme message in #them
 
 
 
-# Rouged
-Rouged is an Aliucord theme that aims to be nice on the eye. It has a red-ish unsaturated pallete.
+# Peaceful Red (rouged.json)
+Peaceful Red is an Aliucord theme that aims to be nice on the eye. It has a red-ish unsaturated pallete.
 
 ## Demonstration
 ![Preview](https://raw.githubusercontent.com/MuubNito/AliucordThemes/main/127%20Sem%20T%C3%ADtulo_20231225035837.png) 
