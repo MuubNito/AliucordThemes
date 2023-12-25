@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "br.mapper",
+        "version": "1.0.0",
+        "license": "The Unlicense.",
+        "name": "Rouged"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -14413032,
+        "background_secondary": -15200750,
+        "accent": -5350290,
+        "mention_highlight": 402429530,
+        "active_channel": 855596160
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -41856,
+        "uikit_btn_bg_color_selector_brand": -41856,
+        "uikit_btn_bg_color_selector_background_accent_dark": -10021079,
+        "uikit_btn_bg_color_selector_background_accent_light": -41856
+    },
+    "drawable_tints": {
+        "drawable_ic_nitro": -3441458
+    },
+    "raws": {}
+}
