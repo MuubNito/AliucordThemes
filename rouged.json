@@ -3,8 +3,8 @@
         "author": "br.mapper",
         "version": "1.0.0",
         "license": "The Unlicense.",
-        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/rouged.json",
-        "name": "Rouged"
+        "name": "Rouged",
+        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/rouged.json"
     },
     "background": {},
     "fonts": {},
