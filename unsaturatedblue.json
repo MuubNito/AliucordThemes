@@ -2,8 +2,9 @@
     "manifest": {
         "author": "br.mapper",
         "name": "Unsaturated Blue",
-        "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/unsaturatedblue.json"
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/MuubNito\/AliucordThemes\/main\/unsaturatedblue.json",
+        "license": "The Unlicense."
     },
     "background": {
         "blur_radius": 2.3,
