@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "author": "br.mapper",
+        "version": "1.0.0",
+        "license": "The Unlicense.",
+        "name": "HS Balance",
+        "updater": ""
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1136340815195689003\/1189627997058252860\/134_Sem_Titulo_20231227175514.png?ex=659eda68&i"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -16774134,
+        "background_secondary": -16774134,
+        "accent": -13189212,
+        "mention_highlight": 387030658,
+        "active_channel": 840015490
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_brand": -12264001,
+        "uikit_btn_bg_color_selector_background_accent_dark": -15622526,
+        "uikit_btn_bg_color_selector_background_accent_light": -12264001
+    },
+    "drawable_tints": {
+        "drawable_ic_nitro": -3441458
+    },
+    "raws": {}
+}
