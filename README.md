@@ -34,6 +34,6 @@ You can use any transparency (except Full) for this theme but I recommend using 
 
 # LICENSING
 
-All of the Aliucord themes in this repo are licensed under the Unlincense.
+All of the Aliucord themes in this repo are licensed under the Unlicense.
 
 
